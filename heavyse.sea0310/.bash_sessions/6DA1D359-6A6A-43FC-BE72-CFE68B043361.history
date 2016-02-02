@@ -1,0 +1,4 @@
+defaults write com.apple.finder AppleShowAllFiles YES
+diskutil disableJournal /Volumes/Media\ backup/
+diskutil disableJournal /Volumes/Media\ backup/
+exit

@@ -1,0 +1,14 @@
+"*":
+  "exception-reporting":
+    userId: "073a13c6-a511-98be-c30d-879bdc431c18"
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+    backUpBeforeSaving: true
+    softWrap: true
+    showIndentGuide: true
+    tabLength: 4
+  "merge-conflicts": {}
+  "vim-mode": {}
